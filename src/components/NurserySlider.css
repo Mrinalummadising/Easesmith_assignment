@@ -1,0 +1,16 @@
+
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick"; 
+  font-size: 20px;
+  color: #838383;
+
+}
+
+.slick-prev:before {
+  content: "←"; 
+}
+
+.slick-next:before {
+  content: "→"; 
+}
