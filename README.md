@@ -25,8 +25,6 @@ This is a React-based E-commerce Listing Page assignment built following the pro
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 - **React Router**: For navigation between the listing page and the Thank You page.
 - **React Icons**: For icons in the header and UI components.
-- **React Slick**: For creating carousels/sliders.
-- **React Toastify**: For toast notifications.
 
 ## Challenges Faced
 
