@@ -67,7 +67,3 @@ http://localhost:5173
 
 - **Routing**: Used `react-router-dom` for navigation between the product listing and the Thank You page.
 - **Modal**: The "Add to Cart" modal opens up with a confirmation button for adding products.
-
----
-
-This README provides an overview of your project and outlines the technologies used, challenges faced, and instructions for running the project. Feel free to modify or expand it based on any additional details you'd like to include.
