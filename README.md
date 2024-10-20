@@ -2,9 +2,9 @@ Here’s a simple README file based on your project setup:
 
 ---
 
-# E-commerce Listing Page
+# E-commerce Chaperone Page
 
-This is a React-based E-commerce Listing Page assignment built following the provided Figma design. The application includes features like product listing, "View Product" navigation, "Add to Cart" modal functionality, and pagination.
+This is a React-based E-commerce Chaperone Page assignment built following the provided Figma design. The application includes features like product listing, "View Product" navigation, "Add to Cart" modal functionality, and pagination.
 
 ## Features
 
