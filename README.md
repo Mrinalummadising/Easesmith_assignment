@@ -33,11 +33,6 @@ This is a React-based E-commerce Listing Page assignment built following the pro
 
 ## Installation
 
-1. Clone the repository:
-
-```bash
-```
-
 2. Install dependencies:
 
 ```bash
